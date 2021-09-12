@@ -12,9 +12,5 @@ Divisor = float(Input2)
 a = (Integer // Divisor)
 b = (Integer % Divisor)
 
-#Converts into Integer
-x = int(a)
-y = int(b)
-
 #Prints output
-print(x, "remainder", y)
+print (a "remainder" b)
