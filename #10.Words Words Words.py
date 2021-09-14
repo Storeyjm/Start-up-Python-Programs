@@ -1,7 +1,8 @@
 #10.Words Words Words
 
 #User inputs sentence
-sent = input("Enter a sentence")
+sentence = input("Enter a sentence")
 
-#Number of words
-iNum = len(sent)
+#Reads number of spaces in sentence using loop
+
+#Prints final value of spaces
