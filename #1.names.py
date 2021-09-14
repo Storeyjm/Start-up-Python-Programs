@@ -1,4 +1,4 @@
-#1.names
+#1.Names
 
 #user inputs first name
 fname = input("Type in your first name")

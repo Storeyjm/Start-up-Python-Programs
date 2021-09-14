@@ -1,4 +1,4 @@
-#2 password
+#2.Password
 
 #user inputs password
 psw = input("Type in your password")
