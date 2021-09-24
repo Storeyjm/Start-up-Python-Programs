@@ -34,3 +34,5 @@ while counter < len(myString):
 
 #Prints final value of words
 print (words)
+
+##Very good

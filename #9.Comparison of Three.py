@@ -17,3 +17,4 @@ elif Num3 > Num1 > Num2:
 else:
     print(Num3, Num2, Num1)
 #end if
+### ACS - Not the most elegnat solution - What would happen if you had 8 numbers :-)

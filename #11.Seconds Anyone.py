@@ -11,3 +11,5 @@ hour = int(splitVal[0])* 3600 + int(splitVal[1]) * 60 + int(splitVal[2])
 
 #print output
 print(hour)
+
+## A good solution

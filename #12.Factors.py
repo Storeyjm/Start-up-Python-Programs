@@ -13,3 +13,5 @@ while counter < (myNumber /2) +1 :
     counter = counter + 1
 #endwhile
 print (myNumber)
+
+## Excellent
